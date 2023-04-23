@@ -26,7 +26,7 @@ namespace multiform
         {
             if ( textBox1.Text == "Arezoo")
             {
-              pf2.textbox2.text = "140112028037";
+              // pf2.textbox2.text = "140112028037";
                 this.Hide();
             } 
         }
