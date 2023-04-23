@@ -1,0 +1,14 @@
+C:\Users\toshiba\source\repos\multiform\multiform\obj\Debug\multiform.csproj.AssemblyReference.cache
+C:\Users\toshiba\source\repos\multiform\multiform\obj\Debug\multiform.csproj.SuggestedBindingRedirects.cache
+C:\Users\toshiba\source\repos\multiform\multiform\obj\Debug\multiform.FirstForm.resources
+C:\Users\toshiba\source\repos\multiform\multiform\obj\Debug\multiform.PaymentForm.resources
+C:\Users\toshiba\source\repos\multiform\multiform\obj\Debug\multiform.PaymentForm2.resources
+C:\Users\toshiba\source\repos\multiform\multiform\obj\Debug\multiform.Properties.Resources.resources
+C:\Users\toshiba\source\repos\multiform\multiform\obj\Debug\multiform.SearchForm.resources
+C:\Users\toshiba\source\repos\multiform\multiform\obj\Debug\multiform.csproj.GenerateResource.cache
+C:\Users\toshiba\source\repos\multiform\multiform\obj\Debug\multiform.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\multiform\multiform\bin\Debug\multiform.exe.config
+C:\Users\toshiba\source\repos\multiform\multiform\bin\Debug\multiform.exe
+C:\Users\toshiba\source\repos\multiform\multiform\bin\Debug\multiform.pdb
+C:\Users\toshiba\source\repos\multiform\multiform\obj\Debug\multiform.exe
+C:\Users\toshiba\source\repos\multiform\multiform\obj\Debug\multiform.pdb
